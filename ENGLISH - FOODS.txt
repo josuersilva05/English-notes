@@ -1,6 +1,6 @@
 ===	ENGLISH	===
 
-Topics to study: [Professions,Foods,Human body,Condominium,Hanging out,Restaurant,Hospital,Cooking,Work/Job,Job interviews,Restaurant,Cars,Animals,Gym,News,Politics,Biology,Sports,Technology,shopping,education,health,travel,movies,crime,environment,objects of the house]
+Topics to study: [Professions,Foods,Human body,Condominium,Hanging out,Restaurant,Hospital,Cooking,Work/Job,Job interviews,Cars,Animals,Gym,News,Politics,Biology,Sports,Technology,shopping,education,health,travel,movies,crime,environment,objects of the house]
 
 English rules: idioms, grammar rules, vocabulary, phrasal verbs, tenses (simple, perfect), english structures
 Notes: [...]
@@ -13,14 +13,14 @@ Topic: FOODS
 
 	salad,sandwich,bread,steak,tuna steak,fish,shrimp,rice,spaghetti,pizza,hamburger,eggs,cheese,sausages,apple juice,grape juice,milk,candy,cookie,pie,cake,cupcake
 
-	vegetables: cucumber,brocolli,cabbage,carrot,beet,bell pepper,chilli peper,cauliflower,corn,eggplant,lettuce,radish,sweet potato,tomato,zucchini,onion,scallion(ceb..linha),shallot(ceb...purple),mushroom,watercress,yam,mushroom,parsley,peanuts,beans,soy beans,
+	vegetables: cucumber,brocolli,cabbage,carrot,beet,bell pepper,chilli peper,cauliflower,corn,eggplant,lettuce,radish,sweet potato,tomato,zucchini,onion,scallion(ceb..linha),shallot(ceb...purple),mushroom,watercress,yam,parsley,peanuts,beans,soy beans,
 
 
-
+ 
 	https://www.english-at-home.com/vocabulary/food-vocabulary/
 
 
-
+ 
 	How foods are cooked: 
 		boiled – cooked in boiling water
 		steamed – cooked over a saucepan of boiling water
@@ -43,19 +43,17 @@ Topic: FOODS
 	Tastes: salty,spicy,sweet,sour,acid,bitter,bland,crunchy,raw
 		salty: tasting of, containing, or preserved with salt
 		spicy: "There was also a somewhat spicy red sauce on the side, adding to the fresh, tangy flavours."
+		bland: "When you feel better, try small amounts of bland food, such as toast, applesauce or bananas"
 
 	Food words: breakfast,lunch,dinner,snacks,take-out food,drinks/beverages,meal,bite,chew
+		take-out food: "a meal cooked and bought at a shop or a restaurant but taken somewhere else, often home, to be eaten"
+		drink x beverage: "drink is any kind of drinking. Beverage is a brewed drink, that can be a hot drink or a beer"
 
 	Deep frying: is a coocking method in which food is submerged in hot fat, most commonly oil.
 		-- Deep fried: food that has gone trough the process of frying
 
 
-
-	
-
-
-
-
+ 
 	IDIOMS related to food:
 		Link: https://www.englishclub.com/vocabulary/idioms-food.htm
 
@@ -65,7 +63,12 @@ Topic: FOODS
 		-- I don't think Jan will come to the bar because she has a bun in the oven.
 
 
-	
+	pans are like frying pans
+	a pan is shallow and a pot is deep
+	a pot can be called pan, but a pan can't be called pot
+	saucepan is a pot
+
+
 
 
 

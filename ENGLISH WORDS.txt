@@ -13,6 +13,20 @@ Nod: [Lower and raise one's head slightly and briefly, specially in greeting, as
 
 slight/slightly: [to a small degree not considerably]
 	""
+
+solid,liquid,gaseous
+assertment:variedade,evenly:uniformemente,oversight:supervisão
+
+
+guidance x guideline x orientation 
+	[guidance is the act of guiding, while guideline is a non-specific rule that provides direction to action or behavior]
+solve x resolve
 	
 
-//solid,liquid,gaseous
+file: ENGLISH - FOODS
+dictionary:
+	- [{boiled: "fervido"},{saucepan:"panela"},{stew:"ensopado"},{applesauce:"banana"},{brewed:"preparado-usado apenas para bebidas"},{}]
+
+
+
+
